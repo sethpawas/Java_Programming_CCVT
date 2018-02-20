@@ -6,7 +6,7 @@ public class TestClass {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello");
-		
+		//object is created
 		Greeting obj=new Greeting(){
 			
 			@Override
